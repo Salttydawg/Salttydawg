@@ -1,7 +1,7 @@
 ## About me 👋
 
 - 🔭 I’m currently working on CS50 course through edX
-- 🌱 I’m currently learning Scratch and basics of coding
+- 🌱 I’m currently learning the basics of coding
 - 👯 I’m looking to collaborate on games
 - 🤔 I’m looking for help with anything coding related 
 - 💬 Ask me about my background as a musician
